@@ -2,7 +2,7 @@
   <div>
     <p>
       <b>2022</b> - Built with <span>❤</span> Vue and Netlify - <a
-        href="https://www.facebook.com/profile.php?id=100054094578450"
+        href="#"
         target="_blank"
       ><b>by EduardoNovato</b></a>
     </p>
