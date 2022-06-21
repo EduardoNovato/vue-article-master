@@ -2,7 +2,7 @@
   <div>
     <p>
       <b>2022</b> - Built with <span>❤</span> Vue and Netlify - <a
-        href="https://github.com/emilianoarteta?tab=overview&from=2022-05-01&to=2022-05-31"
+        href="https://www.facebook.com/profile.php?id=100054094578450"
         target="_blank"
       ><b>by EduardoNovato</b></a>
     </p>

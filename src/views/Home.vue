@@ -34,7 +34,7 @@ export default {
     methods: {
       rangeCharacter() {       
         const randomic = () => parseInt(Math.random() * (493 - 1) + 1)
-        return Array(17).fill(0).reduce(item => [ ...item, randomic()], []).toString()
+        return Array(18).fill(0).reduce(item => [ ...item, randomic()], []).toString()
       }
     },
 };
